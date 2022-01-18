@@ -16,7 +16,7 @@ Runs as:
 
 * GRAPH = directory to graph assembly file
 
-* SRA = basename of HiC fastq files #Dovetail.HiC*
+* SRA = basename of HiC fastq files Dovetail.HiC_
 
 * IN_DIR = directory for HiC reads
 
