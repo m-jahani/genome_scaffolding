@@ -7,7 +7,7 @@ SALSA scaffolding pipeline on Computecanada cluster
 
 
 Runs as:
-bash SALSA*PIPELINE.sh REF GRAPH SRA IN_DIR ASSEM_NAME SAVE_DIR BIN
+bash SALSA_PIPELINE.sh REF GRAPH SRA IN_DIR ASSEM_NAME SAVE_DIR BIN
 
 
 
