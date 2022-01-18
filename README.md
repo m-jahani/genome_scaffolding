@@ -5,8 +5,12 @@ Different tools for scaffolding genome assembly with HiC
 SALSA:
 SALSA scaffolding pipeline on Computecanada cluster
 
+
 Runs as:
 bash SALSA*PIPELINE.sh REF GRAPH SRA IN_DIR ASSEM_NAME SAVE_DIR BIN
+
+
+
 REF = directory to assembly fasta file
 GRAPH = directory to graph assembly file
 SRA = basename of HiC fastq files #Dovetail.HiC*
