@@ -3,7 +3,7 @@
 Different tools for scaffolding genome assembly with HiC
 _________________________________________________________
 
-SALSA scaffolding pipeline on Computecanada cluster
+SALSA scaffolding pipeline on Computecanada
 
 
 Runs as:
