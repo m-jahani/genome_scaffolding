@@ -1,6 +1,6 @@
 # Genome Scaffolding
 
-Different tools for scaffolding genome assembly with HiC
+Various Tools for Scaffolding Genome Assemblies using Hi-C Technology
 _________________________________________________________
 ## SALSA
 
